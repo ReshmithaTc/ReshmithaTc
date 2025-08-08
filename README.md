@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some small projects<br> 👯 I’m looking to contribute for some open source<br> 🌱 I’m currently learning trending technologies<br> 💬 Ask me about programming  , web development<br> 📩 Reach me at reshmithatc@gmail.com
+🔭 I’m currently working on some small projects<br> \n  👯 I’m looking to contribute for some open source<br> \n  🌱 I’m currently learning trending technologies<br> \n 💬 Ask me about programming  , web development<br>  \n 📩 Reach me at reshmithatc@gmail.com
 
 
 ## 🌐 Socials:
