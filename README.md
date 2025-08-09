@@ -1,5 +1,5 @@
 # Hi 👋, I'm Reshmitha Tc 
- A passionate developer from India :
+
 🔭 I’m currently working on some small projects<br> 
 👯 I’m looking to contribute for some open source<br> 
 🌱 I’m currently learning trending technologies<br> 
