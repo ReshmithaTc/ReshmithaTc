@@ -1,4 +1,7 @@
 # Hi 👋, I'm Reshmitha Tc 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ReshmithaTc&label=Profile%20views&color=blue" alt="ReshmithaTc" />
+</p>
 
 🔭 I’m currently working on some small projects<br> 
 👯 I’m looking to contribute for some open source<br> 
