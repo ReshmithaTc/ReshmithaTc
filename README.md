@@ -4,17 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=ReshmithaTc&label=Profile%20views&color=blue" alt="ReshmithaTc" />
 </p>
 
-🔭 I’m currently working on projects<br>
-👯 I’m looking to contribute to open source<br>
-🌱 I’m currently learning trending technologies<br>
-💬 Ask me about programming and web development<br>
-📩 Reach me at reshmithatc@gmail.com
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmithatc/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reshmithatc@gmail.com)
-
 # 👩‍💻 About Me:
 
 🎓 Information Science and Engineering (ISE) Student<br>
@@ -24,6 +13,14 @@
 🤖 Exploring Data Science and Machine Learning<br>
 🧩 Practicing Data Structures and Algorithms<br>
 🌱 Interested in Open Source Contributions<br>
+📩 Reach me at reshmithatc@gmail.com
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmithatc/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reshmithatc@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReshmithaTc)
+
 
 # 💻 Tech Stack:
 
@@ -57,21 +54,6 @@
 - REST APIs
 - Open Source Development
 
-# 🤝 Open Source:
-
-- 🌱 Interested in contributing to Open Source
-- 🔧 Working on open-source projects
-- 🐛 Raising issues and fixing bugs
-- 🔀 Creating Pull Requests
-- 📖 Improving documentation
-- 🤝 Collaborating with developers
-
-# 🧩 Problem Solving:
-
-- 💻 Practicing Data Structures and Algorithms
-- 🟢 Solving problems on LeetCode
-- 🏆 Practicing programming on HackerRank
-- 📚 Preparing for Software Engineering interviews
 
 # 📊 GitHub Stats:
 
@@ -95,15 +77,6 @@
 
 ---
 
-## 🌐 Connect With Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reshmithatc/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshmithatc@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReshmithaTc)
-
----
 
 ### ⭐ Thanks for visiting my profile!
 
